@@ -1,6 +1,6 @@
 # Proyecto: Simulación 3D del Edificio I - ITSU
 
-<img href="Edificio.jpg.png">
+<img href="Edificio.jpg.png"></img>
 
 ## 1. Descripción del Proyecto
 
