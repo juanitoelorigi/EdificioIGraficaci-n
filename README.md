@@ -2,6 +2,14 @@
 
 <img src="Edificio.jpg.png"></img>
 
+## Planta Baja - estructura
+
+<img src="Edificio.jpg.png"></img>
+
+## Planta Alta - 
+
+<img src="Edificio.jpg.png"></img>
+
 ## 1. Descripción del Proyecto
 
 Este proyecto es una simulación interactiva en 3D del Edificio I del Instituto Tecnológico Superior de Uruapan (ITSU). Utilizando Java 3D, se recrea la estructura del edificio, incluyendo sus salones, pasillos, escaleras y otros elementos característicos, basándose en croquis proporcionados. Los usuarios pueden navegar por el entorno virtual utilizando diversos controles, incluyendo un joystick conectado a través de Arduino, y interactuar con elementos como puertas y ventanas.
