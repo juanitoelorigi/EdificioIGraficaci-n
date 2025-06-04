@@ -4,11 +4,11 @@
 
 ## Planta Baja - estructura
 
-<img src="unamed2.png"></img>
+<img src="unnamed2.png"></img>
 
 ## Planta Alta - 
 
-<img src="unamed.jpg.png"></img>
+<img src="unnamed.png"></img>
 
 ## 1. Descripción del Proyecto
 
